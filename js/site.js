@@ -3,6 +3,7 @@ function generatingComponent(vardata){
   var use = dc.rowChart('#pp') ;
   var Rstate = dc.pieChart ('#State') ;
   var Rstatus = dc.pieChart ('#Status') ;
+  var Rtype = dc.pieChart ('#type') ;
   var colors = ['#FAE61E','#03a9f4','#E67800','#C80000','#E6E6FA', '#023858', '#a6bddb','#3690c0'] ;
 
   var cf = crossfilter(vardata);
@@ -10,6 +11,8 @@ function generatingComponent(vardata){
   var colors = ['#2C5197','#0B0B61'] ;
 var stateDim = cf.dimension(function(d) { return d.state});
 var stateGroup = stateDim.group();
+var RtypeDim = cf.dimension(function(d) { return d.data_type});
+var RtypeGroup = RtypeDim.group();
 var statusDim = cf.dimension(function(d) {return d.status});
 var statusGroup = statusDim.group();
 var reqDim = cf.dimension(function(d) {return d.request_dataset});
@@ -17,14 +20,18 @@ var reqGroup = reqDim.group();
 var useDim = cf.dimension(function(d) {return d.purposes});
 var useGroup = useDim.group();
 
-   
+   //pie charts
    Rstate.width($('#State').width()).height(150)
         .dimension(statusDim)
         .group(stateGroup);
+        //.title(function(d){return d.key});
   
    Rstatus.width($('#status').width()).height(150)
         .dimension(statusDim)
         .group(statusGroup); 
+    Rtype.width($('#type').width()).height(150)
+        .dimension(RtypeDim)
+        .group(RtypeGroup); 
 // rowCharts
   reqs.width(600).height(350)
             .dimension(reqDim)
@@ -44,7 +51,7 @@ var useGroup = useDim.group();
             .group(useGroup)
             .elasticX(true)
             .data(function(group) {
-                return group.top(15);
+                return group.top(20);
             })
             .colors('#2b8cbe')
             .colorAccessor(function(d, i){return 0;});

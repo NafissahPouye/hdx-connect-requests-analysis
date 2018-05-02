@@ -10,7 +10,10 @@
 .x-axis-label{
     font-size:0.8em;
 }
-
+/*body{
+  background-color: #1DBFB2;
+}
+*/
 #status{
     
     margin-bottom: 30px;
