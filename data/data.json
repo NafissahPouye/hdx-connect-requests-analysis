@@ -1,189 +1,189 @@
 [
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "DTM Round1 Flow monitoring of venezuelan migration - Peru"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Other",
     "data_type": "Displacement",
     "request_dataset": "DTM Round1 Flow monitoring of venezuelan migration - Peru"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Displacement",
     "request_dataset": "DTM Round1 Flow monitoring of venezuelan migration - Peru"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "DTM Round1 Flow monitoring of venezuelan migration - Peru"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Test",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Test",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Test",
     "data_type": "Displacement",
     "request_dataset": "Ethiopia DTM Baseline and Site Assessment round 5"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Academic",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Test",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "RD Congo : Statistiques des Personnes Déplacées Internes (IDPs)"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Migration Data on Venezuelans in LAC region"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Migration Data on Venezuelans in LAC region"
@@ -191,980 +191,980 @@
   
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Test",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Test",
     "data_type": "Humanitarian access",
     "request_dataset": "Mali : Aperçu de l'accès humanitaire 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Geolocated and categorized images, Dominica, damage after Hurricane Maria, Sept 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Geolocated and categorized images, Dominica, damage after Hurricane Maria, Sept 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Geolocated and categorized images, Dominica, damage after Hurricane Maria, Sept 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Geolocated and categorized images, Dominica, damage after Hurricane Maria, Sept 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Test",
     "data_type": "Geodata",
     "request_dataset": "Geolocated and categorized images, Dominica, damage after Hurricane Maria, Sept 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Displacement",
     "request_dataset": "Mindanao Displacement Dataset"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Academic",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Academic",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Academic",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Not clear",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Hurricane Maria",
     "request_dataset": "Status of Hospitals in Puerto Rico, SBTF, Sept 28 2017"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "accepted",
+    "status": "Accepted",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Test",
     "data_type": "Geodata",
     "request_dataset": "Indonesia administrative boundary polygons, lines, and places (levels 0-4)"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Archive",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Humanitarian",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "Open",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Test",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Not clear",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Other",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
   },
   {
     "state": "New",
-    "status": "denied or pending",
+    "status": "Denied/Pending",
     "purposes": "Academic",
     "data_type": "Geodata",
     "request_dataset": "Philippines - Admin level 4 boundaries (Barangay) as of June2016"
